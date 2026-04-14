@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "MMM",
+        "LML",
+        "LNL"
+    ],
+    "key": {
+        "M": "minecraft:phantom_membrane",
+        "L": "minecraft:leather",
+        "N": "minecraft:nether_star"
+    },
+    "result": {
+        "id": "minecraft:elytra",
+        "count": 1
+    }
+}
